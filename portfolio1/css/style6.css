@@ -1,0 +1,55 @@
+*{
+   padding: 0;
+   margin:0;}
+#home data{margin-left: 40px;
+	       margin-top: 50px;
+}
+#home h5 {
+    font-size: 27px;
+    margin-left: 440px;
+    margin-top: 369px;
+    color: white;
+}
+#home h1 {
+    font-size: 95px;
+    margin-left: 259px;
+    margin-top: -10px;
+    color: white;
+}
+#home p {
+    font-size: 18px;
+    margin-left: 151px;
+    margin-top: -1px;
+    color: white;
+}
+.skroll2{margin-left: 518px;
+
+}
+
+
+.text-center {
+    text-align: center!important;
+    margin-left: -32px;}
+.style8{
+	font-size: 60px;
+}
+.yk{margin-right: 153px;
+	font-size: 20px;
+	padding: 10px;
+
+}
+.section {
+    margin-top: 23px;
+    font-size: 21px;
+}
+.skroll8 {
+	margin-left: 20px;
+}
+#PROCESS-2 i after:{content:'';
+              width:10px; 
+              height:1px;
+              background: #ccc;
+              position: absolute;
+              margin-left:50px;
+              margin-top: 20px ;
+              z-index:100}
